@@ -141,7 +141,7 @@ export function Icon({
       <Box styleSheet={styleSheet}>
         <FontAwesomeIcon
           icon={iconSet[`fa${capitalize(iconVariant)}`]}
-          crossOrigin={true.toString}
+          crossOrigin="anonymous"
           {...props}
         />
       </Box>

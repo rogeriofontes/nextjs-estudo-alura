@@ -1,8 +1,8 @@
 {
-  "name": "alura-cases-divulgacao",
+  "name": "nextjs-estudo-alura",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/rogeriofontes/01-nextjs-course.git",
+  "repository": "https://github.com/rogeriofontes/nextjs-estudo-alura.git",
   "author": "Rogerio Fontes",
   "license": "MIT",
   "dependencies": {
